@@ -1,0 +1,13 @@
+/var/home/BRO/Barstocks/bin/Debug/net10.0/Barstocks
+/var/home/BRO/Barstocks/bin/Debug/net10.0/Barstocks.dll
+/var/home/BRO/Barstocks/bin/Debug/net10.0/Barstocks.pdb
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.csproj.AssemblyReference.cache
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Avalonia/resources
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.AssemblyInfoInputs.cache
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.AssemblyInfo.cs
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.csproj.CoreCompileInputs.cache
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.dll
+/var/home/BRO/Barstocks/obj/Debug/net10.0/refint/Barstocks.dll
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.pdb

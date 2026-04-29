@@ -1,0 +1,37 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Barstocks.App"
+             xmlns:local="using:Barstocks"
+             RequestedThemeVariant="Default">
+             <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available options. -->
+
+    <Application.DataTemplates>
+        <local:ViewLocator/>
+    </Application.DataTemplates>
+
+    <Application.Styles>
+        <FluentTheme />
+    </Application.Styles>
+
+             <Application.Styles>
+                 <FluentTheme />
+                 <StyleInclude Source="Styles/AppDefaultStyles.axaml"></StyleInclude>
+             </Application.Styles>
+
+             <Application.Resources>
+                 <FontFamily x:Key="GodFont">gg sans</FontFamily>
+                 <SolidColorBrush x:Key="ButtonOverText">White</SolidColorBrush>
+                 <SolidColorBrush x:Key="ButtonOver">#333B5A</SolidColorBrush>
+
+                 <SolidColorBrush x:Key="MyButtonForeground">#CFCFCF</SolidColorBrush>
+                 <SolidColorBrush x:Key="MyBackground">#14172D</SolidColorBrush>
+                 <LinearGradientBrush x:Key="BackgroundGradient" StartPoint="0%,0%" EndPoint="100%,0%">
+                     <GradientStop Offset="0" Color="#111214"></GradientStop>
+                     <GradientStop Offset="1" Color="#151E3E"></GradientStop>
+
+                 </LinearGradientBrush>
+
+             </Application.Resources>
+
+
+</Application>

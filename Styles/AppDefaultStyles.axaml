@@ -1,0 +1,39 @@
+<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Design.PreviewWith>
+        <Border  Padding="20" Background="{DynamicResource BackgroundGradient}">
+            <Button HorizontalAlignment="Stretch" >
+                <StackPanel Orientation="Horizontal">
+
+                    <Image Source="/Assets/home2.png" Height="20" Width="20"/>
+                    <Label Foreground="White" Content="Home"/>
+
+                </StackPanel>
+            </Button>
+        </Border>
+    </Design.PreviewWith>
+
+
+    <Style Selector="Button.transparent">
+        <Setter Property="Background" Value="Transparent"></Setter>
+    </Style>
+    <Style Selector="Label">
+        <Setter Property="FontFamily" Value="{DynamicResource GodFont}"></Setter>
+
+        <Setter Property="Padding" Value="9,5.5,9.2,5.5"></Setter>
+    </Style>
+    <Style Selector="Button">
+        <Setter Property="FontFamily" Value="{DynamicResource GodFont}"></Setter>
+
+        <Setter Property="Padding" Value="10,12,10,5 "></Setter>
+        <Setter Property="FontSize" Value="20"></Setter>
+        <Setter Property="Foreground" Value="{DynamicResource MyButtonForeground}"></Setter>
+        <Setter Property="Background" Value="{DynamicResource MyBackground}"></Setter>
+    </Style>
+
+    <Style Selector="Button:pointerover /template/ ContentPresenter">
+        <Setter Property="FontFamily" Value="{DynamicResource GodFont}"></Setter>
+        <Setter Property="Foreground" Value="{DynamicResource ButtonOverText}"></Setter>
+        <Setter Property="Background" Value="{DynamicResource ButtonOver}"></Setter>
+    </Style>
+</Styles>
