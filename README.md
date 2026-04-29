@@ -14,3 +14,4 @@ dotnet publish -c Release -r linux-x64 --self-contained true /p:PublishSingleFil
 
 Windows 10 / 11
 dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true /p:IncludeNativeLibrariesForSelfExtract=true
+<img width="347" height="52" alt="y2R7SU" src="https://github.com/user-attachments/assets/c4cb243e-5149-4f91-a396-aca849d7e96a" />
