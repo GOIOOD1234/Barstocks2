@@ -28,17 +28,17 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Barstocks
-build_property.ProjectDir = /home/BRO/Barstocks/
+build_property.ProjectDir = /var/home/BRO/Barstocks/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/home/BRO/Barstocks/App.axaml]
+[/var/home/BRO/Barstocks/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/BRO/Barstocks/Styles/AppDefaultStyles.axaml]
+[/var/home/BRO/Barstocks/Styles/AppDefaultStyles.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/BRO/Barstocks/Views/MainWindow.axaml]
+[/var/home/BRO/Barstocks/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

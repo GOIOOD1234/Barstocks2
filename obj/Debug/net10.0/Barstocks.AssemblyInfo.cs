@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Barstocks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b7737f5947821130aa3a1e06ee8b02fed0cbb18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Barstocks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Barstocks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,3 +11,4 @@
 /var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.dll
 /var/home/BRO/Barstocks/obj/Debug/net10.0/refint/Barstocks.dll
 /var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.pdb
+/var/home/BRO/Barstocks/obj/Debug/net10.0/Barstocks.sourcelink.json
